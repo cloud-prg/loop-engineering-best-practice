@@ -1,0 +1,4 @@
+interface:
+  display_name: "Loop Engineering Best Practice"
+  short_description: "Build guarded self-running agent loops"
+  default_prompt: "Use $loop-engineering-best-practice to design a guarded agent loop for this repo."
