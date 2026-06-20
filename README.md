@@ -31,3 +31,11 @@ skills/
 ## Source Note
 
 The skill is a concise operational distillation of the user-provided PDF `Loop-Engineering橙皮书-v260615.pdf`. It does not embed the full PDF text.
+
+## Publishing Note
+
+skills.sh does not require a separate publish command. Public skill repos become installable through the skills CLI, and directory visibility can follow from `npx skills add` usage.
+
+## License
+
+MIT
